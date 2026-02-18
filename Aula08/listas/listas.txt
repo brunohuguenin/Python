@@ -1,0 +1,8 @@
+List
+ordenada, mutáel, permite duplicados
+principais métodoso:
+append()
+remove()
+insert(x,y)
+sort()
+reverse()
