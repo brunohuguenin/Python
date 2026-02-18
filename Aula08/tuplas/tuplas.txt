@@ -1,0 +1,9 @@
+Tuplas = tuple
+
+variável = ()
+
+ordenada, imutáel, permite duplicados
+
+principais métodoso:
+count()     # retorna a quantidade de vezes
+index()     # retor na o índixe da primeira ocorrência
