@@ -1,8 +1,12 @@
 List
+
+variável = []
+
 ordenada, mutáel, permite duplicados
+
 principais métodoso:
-append()
-remove()
-insert(x,y)
-sort()
-reverse()
+append()        # adiciona elemento
+remove()        # remove elemento
+insert(x,y)     # remove o último elemento
+sort()          # ordena a lista
+reverse()       # inverte a lista
