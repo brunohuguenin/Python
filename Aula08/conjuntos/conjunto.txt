@@ -1,0 +1,15 @@
+Conjunto = set
+
+variável = {}
+
+não ordenada, mutável e não permite duplicadas
+
+Sets não possuem ordem fixa
+Sets não suportam indexação
+Sets não têm o método .index()
+
+Principais métodoso:
+add()       # adiciona elemento
+remove()    # remove elemento
+discar()    # remove sem erro se não existir
+clear()     # limpa o conjunto
