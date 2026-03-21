@@ -1,0 +1,1 @@
+# Dada a tupla (nome, idade, cidade), desempacote os valores e imprima uma frase com eles.
